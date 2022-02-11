@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jogo-galo-app",
+    "slug": "jogo-galo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jogo-galo-app"
+}
